@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+  width: 600px;
+  height: 350px;
+}
+
+.card img {
+  width: 275px;
+  height: 350px;
+}
